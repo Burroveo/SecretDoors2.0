@@ -14,12 +14,12 @@
  * 	and with all your mind.
  */
 
-package com.github.snnappie.secretdoors.listeners;
+package com.github.burroveo.secretdoors2.0.listeners;
 
-import com.github.snnappie.secretdoors.SecretDoor;
-import com.github.snnappie.secretdoors.SecretDoorHelper;
-import com.github.snnappie.secretdoors.SecretDoors;
-import com.github.snnappie.secretdoors.SecretTrapdoor;
+import com.github.burroveo.secretdoors2.0.SecretDoor;
+import com.github.burroveo.secretdoors2.0.SecretDoorHelper;
+import com.github.burroveo.secretdoors2.0.SecretDoors;
+import com.github.burroveo.secretdoors2.0.SecretTrapdoor;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
