@@ -14,11 +14,11 @@
  * 	and with all your mind.
  */
 
-package com.github.snnappie.secretdoors;
+package com.github.burroveo.secretdoors2.0;
 
-import com.github.snnappie.secretdoors.listeners.BlockListener;
-import com.github.snnappie.secretdoors.listeners.PlayerListener;
-import com.github.snnappie.secretdoors.listeners.PowerListener;
+import com.github.burroveo.secretdoors2.0.listeners.BlockListener;
+import com.github.burroveo.secretdoors2.0.listeners.PlayerListener;
+import com.github.burroveo.secretdoors2.0.listeners.PowerListener;
 import org.bukkit.ChatColor;
 import org.bukkit.Effect;
 import org.bukkit.Material;
