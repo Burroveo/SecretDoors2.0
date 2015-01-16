@@ -1,5 +1,5 @@
 name: SecretDoors
-main: com.github.snnappie.secretdoors.SecretDoors
+main: com.github.burroveo.secretdoors2.0.SecretDoors
 version: 2.0
 author: Burroveo (Originally Snnappie)
 description: Secret doors the way you know them from the movies!
