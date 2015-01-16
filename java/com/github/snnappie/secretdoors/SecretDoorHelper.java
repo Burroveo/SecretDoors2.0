@@ -14,7 +14,7 @@
  * 	and with all your mind.
  */
 
-package com.github.Burroveo.SecretDoors2.0;
+package com.github.burroveo.secretdoors2.0;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
